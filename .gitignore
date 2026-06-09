@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+outputs/*.joblib
+data/GlobalWeatherRepository.csv
+data/kagglehub_cache/
